@@ -1,7 +1,7 @@
 # To-DoList
 Introducing My Task-Tracking App!
 
-Excited to share a new addition to my portfolio—a To-Do List App designed to demonstrate my skills in creating efficient, intuitive, and data-driven applications. This app allows users to easily add, edit, and sort tasks by priority and date, ensuring a streamlined experience for tracking daily tasks.
+Excited to share a new addition to my portfolio To-Do List App designed to demonstrate my skills in creating efficient, intuitive, and data-driven applications. This app allows users to easily add, edit, and sort tasks by priority and date, ensuring a streamlined experience for tracking daily tasks.
 
 Key Features:
 
@@ -12,7 +12,7 @@ Key Features:
 Technologies Used:
 
     •    SwiftUI: For a responsive, dynamic user interface.
-    •    SwiftData: To locally save and manage tasks efficiently.
+    •    SwiftData: To save locally and manage tasks efficiently.
     •    List and ForEach: For efficient task display and sorting.
 
-This project not only showcases my iOS development skills but also highlights my focus on seamless user experience and performance.
+This project showcases my iOS development skills and highlights my focus on seamless user experience and performance.
